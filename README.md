@@ -3,12 +3,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@koigkio-181717?logo=github&logoColor=white)](https://github.com/koigkio)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-plugins-D97757)](https://github.com/koigkio/Neverbor-Demo-plugin)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 
 ***I ❤️ building tools that make AI coding cheaper and smarter.***
 
 💻 ***Developer tinkering with Claude Code plugins, hooks and automation.***
 
-🪶 ***Token saver*** | 🐍 ***Python*** | 🤖 ***AI tools*** | ⚡ ***Zero-dependency fan***
+🪶 ***Token saver*** | 🐍 ***Python*** | 💜 ***C#*** | 🤖 ***AI tools*** | ⚡ ***Zero-dependency fan***
 
 💡 ***Small tools, big savings. Explore my projects below.***
 
